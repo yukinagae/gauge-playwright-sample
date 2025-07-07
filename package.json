@@ -1,0 +1,12 @@
+{
+  "name": "gauge-playwright-template",
+  "description": "Starter template for writing Playwright tests for Gauge",
+  "dependencies": {
+    "gauge-ts": "0.3.0",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "playwright": "^1.53.2"
+  }
+}

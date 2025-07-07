@@ -1,0 +1,7 @@
+{
+  "name": "ts",
+  "description": "Gauge template for Playwright",
+  "version": "0.0.10",
+  "postInstallCmd": "npm install",
+  "postInstallMsg": "Run specifications with \"gauge run specs/\"."
+}
